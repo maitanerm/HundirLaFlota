@@ -2,6 +2,7 @@ package packModelo;
 import java.util.Collection;
 
 public class Almacen {
+	// hola soy maitane y molo mucho
 
 	private Collection<Armamento> existencias;
 	private static Almacen miAlmacen;
